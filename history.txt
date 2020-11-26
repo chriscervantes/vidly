@@ -1,0 +1,500 @@
+    8  node index.js 
+    9  clear
+   10  node index.js 
+   11  node index.js 
+   12  node index.js 
+   13  node index.js 
+   14  node index.js 
+   15  node index.js 
+   16  node index.js 
+   17  npm i fawn@2.1.5
+   18  node index.js 
+   19  npm i joi-objectid@2.0.0
+   20  node index.js 
+   21  node index.js 
+   22  node index.js 
+   23  node index.js 
+   24  npm i lodash@4.17.4
+   25  clear
+   26  node index.js 
+   27  nodemon
+   28  npm i joi-password-complexity
+   29  npm i bcrypt@1.0.3
+   30  node hash.js 
+   31  node hash.js 
+   32  node hash.js 
+   33  nodemon
+   34  npm i jsonwebtoken@8.1.1[A
+   35  nodemon
+   36  nodemon
+   37  node index.js 
+   38  node index.js 
+   39  node index.js 
+   40  clear
+   41  clear
+   42  node index.js 
+   43  node index.js 
+   44  node index.js 
+   45  npm i config@1.29.4
+   46  node index.js 
+   47  nodemon index.js 
+   48  node index.js 
+   49  clear
+   50  export vidly_jwtPrivateKey=mySecureKey
+   51  node index.js 
+   52  node index.js 
+   53  node index.js 
+   54  node index.js 
+   55  node index.js 
+   56  nodemon index.js 
+   57  history
+   58  clear
+   59  nodemon index.js 
+   60  npm i express-async-errors@2.1.0
+   61  nodemon index.js 
+   62  npm i winston@2.4.0
+   63  nodemon index.js 
+   64  npm i winston-mongodb@3.0.0
+   65  nodemon index.js 
+   66  node index.js 
+   67  node index.js 
+   68  node index.js 
+   69  node index.js 
+   70  node index.js 
+   71  nodemon index.js 
+   72  nodemon
+   73  nodemon
+   74  history
+   75  cmdhistory.txt < history
+   76  cat cmdhistory.txt < history
+   77  touch cmdhistory.txt
+   78  cmdhistory.txt < history
+   79   history > cmdhistory.txt
+   80  cd Documents/_devStuff/_nodeUdemy/testing-demo/
+   81  npm i jest --save-dev
+   82  npm i jest@22.2.2 --save-dev
+   83  npm un jest@23.6.0
+   84  code .
+   85  clear
+   86  npm test
+   87  npm test
+   88  npm test
+   89  npm test
+   90  npm test
+   91  npm test
+   92  npm test
+   93  node --version
+   94  clear
+   95  clear
+   96  npm un firebird
+   97  cd Documents/
+   98  cd _devStuff/_nodeUdemy/iTax/
+   99  npm un node-firebird
+  100  cd~
+  101  cd ~~
+  102  cd ~
+  103  cd /Library/Frameworks/Firebird.framework/
+  104  ls
+  105  cd Firebird 
+  106  cd ../../
+  107  ls
+  108  cd LaunchDaemons/
+  109  ls
+  110  node -v
+  111  cd Documents/_devStuff/_nodeUdemy/nodetutorial/
+  112  cd vidly/
+  113  clear
+  114  npm i helmet
+  115  npm i helmet@3.11.0
+  116  npm i compression@1.7.2
+  117  code .
+  118  brew install heroku/brew/heroku@6.15
+  119  brew install heroku/brew/heroku
+  120  heroku -v
+  121  heroku login
+  122  export HTTP_PROXY=http://proxy.server.com:1234
+  123  heroku login
+  124  echo $PATH
+  125  echo $export
+  126  export HTTP_PROXY=ftp://webapi.itaxph.com/NodeApi/
+  127  heroku login
+  128  clear
+  129  git init
+  130  git add .
+  131  git commit -m "First commit."
+  132  heroku create 
+  133  export HTTP_PROXY=https://github.com/git2WorkPH/vidly
+  134  heroku login
+  135  heroku login
+  136  heroku login
+  137  brew install heroku/brew/heroku@6.15
+  138  heroku -v
+  139  heroku login
+  140  heroku -v
+  141  rm -rf ~/.heroku
+  142  sudo rm -rf /usr/local/heroku /usr/bin/heroku
+  143  clear
+  144  heroku -v
+  145  cd /usr/local/lib/heroku/
+  146  ls
+  147  clear
+  148  rm -rf ~/.local/share/heroku/
+  149  rm -rf ~/Library/Caches/heroku/
+  150  rm /usr/local/bin/heroku 
+  151  rm -rf /usr/local/lib/heroku/
+  152  sudo rm -rf /usr/local/lib/heroku/
+  153  clearw
+  154  clear
+  155  heroku -v
+  156  brew install heroku-toolbelt
+  157  cd~
+  158  cd ~
+  159  cd Documents/_devStuff/_nodeUdemy/nodetutorial/
+  160  cd vidly/
+  161  clear
+  162  brew install heroku-toolbelt
+  163  brew install heroku/brew/heroku
+  164  brew uninstall heroku
+  165  brew install heroku/brew/heroku
+  166  heroku -v
+  167  heroku login
+  168  heroku login
+  169  source ~/.
+  170  source ~/.bash_profile 
+  171  unset HTTP_PROXY
+  172  echo $export
+  173  echo $PATH
+  174  clear
+  175  heroku login
+  176  ls
+  177  cd ../
+  178  cd vidly/
+  179  npm create
+  180  heroku create
+  181  git remote -v
+  182  git push heroku master
+  183  git push heroku master
+  184  clcler
+  185  clear
+  186  git init
+  187  heroku git:remote rocky-spire-65586
+  188  git add .
+  189  git commit -am "make it bett"
+  190  git push heroku master
+  191  herokulogs
+  192  heroku logs
+  193  heroku configset vidly_jwtPrivateKey=1234
+  194  heroku config:set NODE_ENV=production
+  195  heroku config
+  196  clear
+  197  ls
+  198  clear
+  199  npm i helmet@3.11.0
+  200  npm i compression@1.7.2
+  201  code .
+  202  heroku -v
+  203  heroku login
+  204  npm start
+  205  npm start
+  206  npm start
+  207  heroku config
+  208  clear
+  209  npm start
+  210  cat /Users/jc/.npm/_logs/2019-01-13T09_10_50_997Z-debug.log 
+  211  npm start
+  212  clear
+  213  npm start
+  214  export vidly_jwtPrivateKey=1234
+  215  npm start
+  216  node -v
+  217  npm start
+  218  clear
+  219  git --version
+  220  git init
+  221  git add .
+  222  git commit -m "First Commit"
+  223  heroku create
+  224  git remote -v
+  225  git push heroku master
+  226  heroku git:remote ancient-island-46046
+  227  git push heroku master
+  228  clear
+  229  git push heroku master
+  230  heroku create
+  231  git remote -v
+  232  git push heroku master
+  233  git remove -
+  234  git remove -v
+  235  git remote -v
+  236  clear
+  237  history > history.txt
+  238  cat history.txt 
+  239  clear
+  240  npm i helmet@3.11.0
+  241  npm i compression@1.7.2
+  242  code .
+  243  git init
+  244  heroku create
+  245  heroku login
+  246  npm start
+  247  npm start
+  248  heroku -v
+  249  git init
+  250  git add .
+  251  git commit -m "First commit."
+  252  heroku create
+  253  clear
+  254  mongod
+  255  cd Documents/_devStuff/_nodeUdemy/nodetutorial/vidly/
+  256  mongod
+  257  mongod
+  258  mongod
+  259  mongod
+  260  exit
+  261  cd Documents/_devStuff/_nodeUdemy/nodetutorial/
+  262  ls
+  263  clera
+  264  clera
+  265  clear
+  266  cd itax/
+  267  code .
+  268  /Users/jc/Applications/MyMacUpdater/enc_file ; exit;
+  269  heroku login
+  270  man default
+  271  man defaults
+  272  defaults delete 
+  273  Defaults delete DefaultSearchProviderName
+  274  defaults write com.google.Chrome HomepageIsNewTabPage -bool false
+  275  defaults write com.google.Chrome NewTabPageLocation -string "https://www.google.com/"
+  276  defaults write com.google.Chrome HomepageLocation -string "https://www.google.com/"
+  277  defaults delete com.google.Chrome DefaultSearchProviderSearchURL
+  278  defaults delete com.google.Chrome DefaultSearchProviderNewTabURL
+  279  defaults delete com.google.Chrome DefaultSearchProviderName
+  280  clear
+  281  ifconfig
+  282  clear
+  283  mongod
+  284  cd Documents/_devStuff/_nodeUdemy/
+  285  ls
+  286  cd node
+  287  cd nodetutorial/
+  288  ls
+  289  vidly/
+  290  ls
+  291  cd vidly/
+  292  ls
+  293  node index.js 
+  294  history
+  295  /jwtPrivateKey
+  296  history
+  297  history > history.txt
+  298  cat history.txt 
+  299  clear
+  300  node index.js 
+  301  export jwtPrivateKey=1234
+  302  node index.js 
+  303  export jwtPrivateKey=1234
+  304  node index.js 
+  305  clear
+  306  nodemon index.js 
+  307  export vidly_jwtPrivateKey=1234
+  308  cler
+  309  clear
+  310  nodemon index.js 
+  311  mongod
+  312  nodemon index.js 
+  313  clear
+  314  export vidly_jwtPrivateKey=1234
+  315  nodemon index.js 
+  316  python --version
+  317  python3 --version
+  318  clear
+  319  nodemon index.js 
+  320  /Applications/Python\ 3.7/Install\ Certificates.command ; exit;
+  321  /Library/Frameworks/Python.framework/Versions/3.7/bin/python3 -m pip install -U pylint --user
+  322  python3 --version
+  323  python2 --version
+  324  clear
+  325  history
+  326  python3
+  327  cd Documents/_devStuff/_JS/
+  328  clear
+  329  code .
+  330  mkdir tutorial
+  331  cd tutorial/
+  332  sl
+  333  clear
+  334  code .
+  335  cclear
+  336  clear
+  337  history
+  338  s
+  339  ifconfig
+  340  ifconfig
+  341  cd Documents/
+  342  cd UTS/Unix/unix_lab/
+  343  ls
+  344  clear
+  345  ls
+  346  cd unix
+  347  ls
+  348  cd ./
+  349  ls
+  350  clear
+  351  ls
+  352  cd .//
+  353  cd .../
+  354  ls
+  355  cd ./
+  356  ls
+  357  ls
+  358  cd ..../
+  359  cd ../
+  360  cd ./
+  361  cd ../
+  362  ls
+  363  cleawr
+  364  cd unix_lab/
+  365  ls
+  366  cd unix_codes/
+  367  ls
+  368  cd usp1skill/
+  369  ;s
+  370  ls
+  371  clear
+  372  ls
+  373  cat makaexe.sh 
+  374  cat math.sh 
+  375  ifconfig
+  376  clear
+  377  netstat -nr | grep default
+  378  netstat -nr 
+  379  netstat -nr clear
+  380  clear
+  381  netstat -nr | grep default
+  382  clear
+  383  netstat -nr 
+  384  clear
+  385  cal
+  386  cal
+  387  cal ap
+  388  cal 3
+  389  cal 9
+  390  clear
+  391  cd Documents/_devStuff/_nodeUdemy/
+  392  ls
+  393  vidly
+  394  cd vidly
+  395  code .
+  396  cd .//
+  397  cd ../
+  398  cd ..../
+  399  cd ../
+  400  ls
+  401  cd ../
+  402  ls
+  403  clear
+  404  ls
+  405  cd UTS/
+  406  mkdir ITPS
+  407  cd ITPS/
+  408  clear
+  409  rerun.it.uts.edu.au
+  410  rerun.it.uts.edu.au
+  411  rerun.it.uts.edu.au
+  412  ssh ccervantes@rerun.it.uts.edu.au
+  413  ssh ccervantes@rerun.it.uts.edu.au
+  414  ssh ccervantes@rerun.it.uts.edu.au
+  415  ssh ccervantes@rerun.it.uts.edu.au
+  416  ssh ccervantes@rerun.it.uts.edu.au
+  417  ssh ccervant@rerun.it.uts.edu.au
+  418  mongod
+  419  clear
+  420  ssh ccervant@rerun.it.uts.edu.au
+  421  cd Documents/_devStuff/_nodeUdemy/
+  422  ls
+  423  cd vidly
+  424  node index.js 
+  425  ls
+  426  cd Downloads/
+  427  cd pycosat-0.6.3
+  428  setup.py
+  429  ls
+  430  setup.py
+  431  cd Documents/_devStuff/_python/
+  432  touch puzzle.py
+  433  vim puzzle.py 
+  434  ls
+  435  puzzle.py
+  436  python3 puzzle.py 
+  437  ls
+  438  cd KnightsAndKnavesSolver-master
+  439  python3 symbolizer.py 
+  440  python3 symbolizer.py raw.txt 
+  441  python3 solver.py 
+  442  ls
+  443  ls
+  444  python3 install -m pip install pycosat-0.6.3/
+  445  pip install pycosat-0.6.3/
+  446  python3 solver.py 
+  447  python3 solver.py 
+  448  python3 symbolizer.py 
+  449  cd ../
+  450  ls
+  451  python3 puzzle.py
+  452  ls - test_1.txt 
+  453  ls -l test_1.txt 
+  454  python3 puzzle.py
+  455  python3 puzzle.py
+  456  python3 puzzle.py
+  457  python3 puzzle.py
+  458  python3 puzzle.py
+  459  python3 puzzle.py
+  460  python3 puzzle.py
+  461  python3 puzzle.py
+  462  python3 puzzle.py
+  463  clear
+  464  python3 puzzle.py
+  465  python3 puzzle.py
+  466  python3 puzzle.py
+  467  python3 puzzle.py
+  468  python3 puzzle.py
+  469  python3 puzzle.py
+  470  python3 puzzle.py
+  471  python3 puzzle.py
+  472  python3 puzzle.py
+  473  clear
+  474  python3 puzzle.py
+  475  python3 puzzle.py
+  476  python3 puzzle.py
+  477  python3 puzzle.py
+  478  python3 puzzle.py
+  479  python3 puzzle.py
+  480  python3 puzzle.py
+  481  python3 puzzle.py
+  482  python3 puzzle.py
+  483  clear
+  484  python3 puzzle.py
+  485  python3 puzzle.py
+  486  python3 puzzle.py
+  487  python3 puzzle.py
+  488  python3 puzzle.py
+  489  python3 puzzle.py
+  490  python3 puzzle.py
+  491  python3 puzzle.py
+  492  clear
+  493  python3 puzzle.py
+  494  clear
+  495  python3 puzzle.py
+  496  python3 puzzle.py
+  497  ssh ccervant@rerun.it.uts.edu.au
+  498  ssh ccervant@rerun.it.uts.edu.au
+  499  ssh ccervant@rerun.it.uts.edu.au
+  500  ssh ccervant@rerun.it.uts.edu.au
+  501  cd Documents/_devStuff/
+  502  cd _nodeUdemy/
+  503  cd vidly
+  504  node index.js 
+  505  export jwtPrivateKey
+  506  node index.js 
+  507  history > history.txt

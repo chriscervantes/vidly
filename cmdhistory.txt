@@ -1,0 +1,500 @@
+  201  vi multiple.pl 
+  202  ls
+  203  vi multiple.pl 
+  204  ./multiple.pl 
+  205  vi multiple.pl 
+  206  ./multiple.pl 
+  207  vi multiple.pl 
+  208  ./multiple.pl 
+  209  vi multiple.pl 
+  210  ./multiple.pl 
+  211  cat foodhere 
+  212  ls -l foodhere 
+  213  vi multiple.pl 
+  214  ls -l foodhere 
+  215  ./multiple.pl 
+  216  cat foodhere 
+  217  cd Documents/UTS/Unix/assignment/
+  218  ./partitionbrowser.pl -n partition_file 
+  219  chmod 400 partition_file 
+  220  ./partitionbrowser.pl -n partition_file 
+  221  ./partitionbrowser.pl -n         partition_file 
+  222  ./partitionbrowser.pl -n         partition_file  dasf
+  223  ./partitionbrowser.pl -n         partition_file
+  224  ./partitionbrowser.pl -n         partition_file -t
+  225  ./partitionbrowser.pl -u         partition_file
+  226  ./partitionbrowser.pl -f         partition_file
+  227  ./partitionbrowser.pl -f partition_file
+  228  ./partitionbrowser.pl -u partition_file
+  229  ./partitionbrowser.pl -f partition_file
+  230  ./partitionbrowser.pl -t ext3 partition_file
+  231  ./partitionbrowser.pl -u partition_file
+  232  ./partitionbrowser.pl -f partition_file
+  233  ./partitionbrowser.pl -n partition_file
+  234  ./partitionbrowser.pl -n test
+  235  ./partitionbrowser.pl -n partition
+  236  ./partitionbrowser.pl -n partition_t
+  237  ./partitionbrowser.pl -n partition_file 
+  238  ./partitionbrowser.pl -u partition_file 
+  239  ./partitionbrowser.pl -f partition_file 
+  240  ./partitionbrowser.pl -f partition_file 
+  241  ./partitionbrowser.pl -u partition_file 
+  242  ./partitionbrowser.pl -u partition_file 
+  243  ./partitionbrowser.pl -u partition_file 
+  244  ./partitionbrowser.pl -u partition_file 
+  245  ./partitionbrowser.pl -u partition_file 
+  246  ./partitionbrowser.pl -u partition_file 
+  247  clear
+  248  ./partitionbrowser.pl -u partition_file 
+  249  clear
+  250  ./partitionbrowser.pl -u partition_file 
+  251  clear
+  252  ./partitionbrowser.pl -u partition_file 
+  253  clear
+  254  ./partitionbrowser.pl -u partition_file 
+  255  ./partitionbrowser.pl -f partition_file 
+  256  ./partitionbrowser.pl -f partition_file 
+  257  ./partitionbrowser.pl -f partition_file 
+  258  ./partitionbrowser.pl -u partition_file 
+  259  ./partitionbrowser.pl -u partition_file 
+  260  ./partitionbrowser.pl -n partition_file 
+  261  ./partitionbrowser.pl -f partition_file 
+  262  ./partitionbrowser.pl -s partition_file 
+  263  ./partitionbrowser.pl -s partition_file 
+  264  ls -l
+  265  ./partitionbrowser.pl -s partition_file 
+  266  ./partitionbrowser.pl -f partition_file 
+  267  ./partitionbrowser.pl -n partition_file 
+  268  ./partitionbrowser.pl -u partition_file 
+  269  ./partitionbrowser.pl -u partition_file 
+  270  ./partitionbrowser.pl -f partition_file 
+  271  ./partitionbrowser.pl -f partition_file 
+  272  ./partitionbrowser.pl -f partition_file 
+  273  ./partitionbrowser.pl -u partition_file 
+  274  ./partitionbrowser.pl -u partition_file 
+  275  ./partitionbrowser.pl -u partition_file 
+  276  ./partitionbrowser.pl -u partition_file 
+  277  ./partitionbrowser.pl -u partition_file 
+  278  ./partitionbrowser.pl -u partition_file 
+  279  ./partitionbrowser.pl -u partition_file 
+  280  ./partitionbrowser.pl -f partition_file 
+  281  mongodb
+  282  mongod
+  283  cd Documents/_devStuff/_nodeUdemy/
+  284  ls
+  285  cd first_app/
+  286  ls
+  287  cd mongo-validation/
+  288  ls
+  289  code.
+  290  .code
+  291  code .
+  292  node index.js 
+  293  node index.js 
+  294  clear
+  295  node index.js 
+  296  node index.js 
+  297  clear
+  298  node index.js
+  299  node index.js
+  300  clear
+  301  node index.js
+  302  node index.js
+  303  cear
+  304  clear
+  305  ssh ccervant@rerun.it.uts.edu.au
+  306  clear
+  307  node index.js 
+  308  node index.js 
+  309  clear
+  310  node index.js 
+  311  node index.js 
+  312  traceroute
+  313  man tracerouter
+  314  man traceroute
+  315  clear
+  316  exir
+  317  arp -a
+  318  traceroute -a
+  319  traceroute -d
+  320  traceroute -A
+  321  traceroute
+  322  whoiam
+  323  whoami
+  324  clear
+  325  myip
+  326  whatismyip
+  327  ifconfig | grep inet
+  328  ifconfig
+  329  /usr/
+  330  cd /usr/
+  331  ls
+  332  echo $JAVA_HOME
+  333  echo $PATH
+  334  clear
+  335  ip route
+  336  arpspoof
+  337  show ip route
+  338  cleaar
+  339  clear
+  340  netstat -r
+  341  route print
+  342  route print -r
+  343  route
+  344  man route
+  345  clear
+  346  ifconfig /all
+  347  ifconfig
+  348  ifconfig enth
+  349  ifconfig en0
+  350  ping google.com
+  351  clear
+  352  ping https://online.uts.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1
+  353  ping online.uts.edu.au
+  354  clear
+  355  clear
+  356  cd Documents/_devStuff/_nodeUdemy/
+  357  ls
+  358  cd first_app/
+  359  ls
+  360  cd mongo-validation/
+  361  ls
+  362  node index.js 
+  363  node index.js 
+  364  clear
+  365  node index.js 
+  366  node index.js 
+  367  node index.js 
+  368  node index.js 
+  369  node index.js 
+  370  node index.js 
+  371  clear
+  372  node index.js 
+  373  node index.js 
+  374  node index.js 
+  375  clear
+  376  node index.js 
+  377  clear
+  378  node index.js 
+  379  ipconfig
+  380  ipconfig /all
+  381  ifconfig /alll
+  382  ifconfig /all
+  383  ifconfig -all
+  384  man ifconfig
+  385  traceroute
+  386  traceroute -a
+  387  netstat
+  388  mongod
+  389  mongod
+  390  clear
+  391  netstat
+  392  cd Documents/_devStuff/_nodeUdemy/first_app/
+  393  ls
+  394  cd mongo-Exercise/
+  395  ls
+  396  code.
+  397  .code
+  398  code .
+  399  cd ../
+  400  cd ../Project_Genres/
+  401  ls
+  402  code .
+  403  cd ../vidly/
+  404  ls
+  405  code 
+  406  ls
+  407  clear
+  408  ls
+  409  code .
+  410  calendar 2018
+  411  cal 2018
+  412  adb shell
+  413  mount -o rw, remount rootfs /
+  414  clear; cd "/Users/jc/Library/Developer/Xamarin/android-sdk-macosx"; export PATH="/Users/jc/Library/Developer/Xamarin/android-sdk-macosx/tools:/Users/jc/Library/Developer/Xamarin/android-sdk-macosx/platform-tools:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/bin:/Library/Frameworks/Mono.framework/Commands:/Applications/Visual Studio.app/Contents/Resources:/Applications/Visual Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:~/.dotnet/tools:/usr/local/share/dotnet"; 
+  415  adb shell
+  416  clear; cd "/Users/jc/Library/Developer/Xamarin/android-sdk-macosx"; export PATH="/Users/jc/Library/Developer/Xamarin/android-sdk-macosx/tools:/Users/jc/Library/Developer/Xamarin/android-sdk-macosx/platform-tools:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/bin:/Library/Frameworks/Mono.framework/Commands:/Applications/Visual Studio.app/Contents/Resources:/Applications/Visual Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:~/.dotnet/tools:/usr/local/share/dotnet"; 
+  417  sudo
+  418  su
+  419  su
+  420  su
+  421  clear
+  422  adb shell
+  423  exit
+  424  cd Documents/_devStuff/
+  425  history > test.txt
+  426  ls
+  427  cat test.txt 
+  428  clear
+  429  exit
+  430  netstat
+  431  ipconfig /renew
+  432  netconfig  /renew
+  433  ifconfig /renew
+  434  ifconfig /release
+  435  man ifconfig
+  436  clear
+  437  node -v
+  438  npm -v
+  439  cd Documents/_devStuff/
+  440  cd _nodeUdemy/
+  441  cd nodetutorial/myapp/
+  442  npm init
+  443  code.
+  444  code .
+  445  npm install express
+  446  ls
+  447  server.js
+  448  node server.js
+  449  node server.js
+  450  exit
+  451  cd Documents/_devStuff/_nodeUdemy/
+  452  ls
+  453  cd first_app/
+  454  ls
+  455  cd mongo-Exercise/
+  456  ls
+  457  cat index.js 
+  458  clear
+  459  node index.js 
+  460  node index.js 
+  461  code .
+  462  history 
+  463  mongod
+  464  mongod
+  465  /Volumes/Install/Install.command ; exit;
+  466  clear
+  467  cat index.js 
+  468  clear
+  469  cd ../../../
+  470  ls
+  471  cd _nodeUdemy/
+  472  ls
+  473  cd nodetutorial/
+  474  ls
+  475  cd ../
+  476  cd first_app/
+  477  ls
+  478  cd mongo-validation/
+  479  cat index.js 
+  480  clear
+  481  ping 192.13.14.1
+  482  mongod
+  483  mongod
+  484  cd Documents/_devStuff/_nodeUdemy/first_app/
+  485  ls
+  486  cd mongo-validation/
+  487  code.
+  488  code .
+  489  mongod
+  490  cd Documents/_devStuff/
+  491  ls
+  492  _nodeUdemy/
+  493  ls
+  494  ls -l
+  495  clear
+  496  cd _nodeUdemy/first_app/mongo-va
+  497  cd _nodeUdemy/first_app/mongo-validation/
+  498  code .
+  499  mongod
+  500  telnet localhost 3050
+  501* cd /Library/Frameworks/Firebird.framework/Resources/bi
+  502  ls
+  503  cd firebird 
+  504  ls
+  505  cd ../../../../
+  506  ls
+  507  cd LaunchDaemons/
+  508  ls
+  509  cd org.firebird.gds.plist 
+  510  cat org.firebird.gds.plist 
+  511  sudo launchctl load org.firebird.gds.plist 
+  512  cleawr
+  513  clear
+  514  cd ~
+  515  cd Documents/_devStuff/_nodeUdemy/first_app/mongo-validation/
+  516  ls
+  517  node index.js 
+  518  node index.js 
+  519  node index.js 
+  520  node index.js 
+  521  node index.js 
+  522  node index.js 
+  523  node index.js 
+  524  node index.js 
+  525  node index.js 
+  526  node index.js 
+  527  node index.js 
+  528  node index.js 
+  529  node index.js 
+  530  node index.js 
+  531  node index.js 
+  532  node index.js 
+  533  cd ../../
+  534  ls
+  535  cd Project_Genres/
+  536  ls
+  537  code .
+  538  cd ../
+  539  ls
+  540  cd first_app/
+  541  ls
+  542  cd mongo-Exercise/
+  543  ls
+  544  cat index.js 
+  545  clear
+  546  cd ../../
+  547  ls
+  548  nodetutorial/
+  549  ls
+  550  cd vidly - mine
+  551  ls
+  552  cat index.js 
+  553  clear
+  554  clear
+  555  cd ../
+  556  cd vidly
+  557  ls
+  558  code .
+  559  npm install mongoose
+  560  clear
+  561  npm install debug
+  562  node index.js 
+  563  node index.js 
+  564  node index.js 
+  565  node index.js 
+  566  node index.js 
+  567  node index.js 
+  568  node index.js 
+  569  node index.js 
+  570  node index.js 
+  571  node index.js 
+  572  node index.js 
+  573  node index.js 
+  574  node index.js 
+  575  node index.js 
+  576  node index.js 
+  577  node index.js 
+  578  node index.js 
+  579  node index.js 
+  580  node index.js 
+  581  node index.js 
+  582  node index.js 
+  583  node index.js 
+  584  node index.js 
+  585  node index.js 
+  586  node index.js 
+  587  node index.js 
+  588  node index.js 
+  589  node index.js 
+  590  cd ../../
+  591  ls
+  592  cd _nodeUdemy/
+  593  ls
+  594  cd 9.2-\ Referencing\ Documents/
+  595  ls
+  596  node population.js 
+  597  clear
+  598  cd ../
+  599  ls
+  600  cd vidly
+  601  clear
+  602  node population.js 
+  603  node population.js 
+  604  node population.js 
+  605  node population.js 
+  606  node population.js 
+  607  node population.js 
+  608  clear
+  609  node population.js 
+  610  node population.js 
+  611  node population.js 
+  612  node population.js 
+  613  node population.js 
+  614  node population.js 
+  615  node population.js 
+  616  node embedding.js 
+  617  node embedding.js 
+  618  node embedding.js 
+  619  node embedding.js 
+  620  node embedding.js 
+  621  node embedding.js 
+  622  node embedding.js 
+  623  node embedding.js 
+  624  node embedding.js 
+  625  node embedding.js 
+  626  node index.js 
+  627  node index.js 
+  628  node index.js 
+  629  node index.js 
+  630  clear
+  631  node index.js 
+  632  node index.js 
+  633  node index.js 
+  634  node index.js 
+  635  node index.js 
+  636  node index.js 
+  637  node index.js 
+  638  npm i fawn@2.1.5
+  639  node index.js 
+  640  npm i joi-objectid@2.0.0
+  641  node index.js 
+  642  node index.js 
+  643  node index.js 
+  644  node index.js 
+  645  npm i lodash@4.17.4
+  646  clear
+  647  node index.js 
+  648  nodemon
+  649  npm i joi-password-complexity
+  650  npm i bcrypt@1.0.3
+  651  node hash.js 
+  652  node hash.js 
+  653  node hash.js 
+  654  nodemon
+  655* npm i jsonwebtoken@8.1.1[A
+  656  nodemon
+  657  nodemon
+  658  node index.js 
+  659  node index.js 
+  660  node index.js 
+  661  clear
+  662  clear
+  663  node index.js 
+  664  node index.js 
+  665  node index.js 
+  666  npm i config@1.29.4
+  667  node index.js 
+  668  nodemon index.js 
+  669  node index.js 
+  670  clear
+  671  export vidly_jwtPrivateKey=mySecureKey
+  672  node index.js 
+  673  node index.js 
+  674  node index.js 
+  675  node index.js 
+  676  node index.js 
+  677  nodemon index.js 
+  678  history
+  679  clear
+  680  nodemon index.js 
+  681  npm i express-async-errors@2.1.0
+  682  nodemon index.js 
+  683  npm i winston@2.4.0
+  684  nodemon index.js 
+  685  npm i winston-mongodb@3.0.0
+  686  nodemon index.js 
+  687  node index.js 
+  688  node index.js 
+  689  node index.js 
+  690  node index.js 
+  691  node index.js 
+  692  nodemon index.js 
+  693  nodemon
+  694  nodemon
+  695  history
+  696  cmdhistory.txt < history
+  697  cat cmdhistory.txt < history
+  698* touch cmdhistory.txt
+  699  cmdhistory.txt < history
+  700   history > cmdhistory.txt
