@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "",
+  "db": "mongodb://root:sql123@ds155864.mlab.com:55864/vidlysample",
+  "NODE_DEV":""
+}
